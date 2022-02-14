@@ -71,24 +71,6 @@
         "JS"
       ],
       "rating": 9.7,
-      "id": 8
-    },
-    {
-      "title": "JS for Junior",
-      "author": "Sam Druk",
-      "genres": [
-        "JS"
-      ],
-      "rating": 8.5,
-      "id": 9
-    },
-    {
-      "title": "JS for Junior",
-      "author": "Sam Druk",
-      "genres": [
-        "JS"
-      ],
-      "rating": 9.7,
       "id": 10
     },
     {
@@ -99,6 +81,168 @@
       ],
       "rating": 7.2,
       "id": 11
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 12
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 13
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 14
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 15
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 16
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 17
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 18
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 19
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 20
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 21
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 22
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 23
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 24
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 25
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 26
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 27
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 28
+    },
+    {
+      "title": "JS it`s cool",
+      "author": "Sam Druk",
+      "genres": [
+        "JS-study"
+      ],
+      "rating": 7.2,
+      "id": 29
     }
   ]
 }
